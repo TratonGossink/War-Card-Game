@@ -8,11 +8,7 @@ This is a simple card game to compare which card is the highest. When comparing 
 This simple app is a project developed through my iOS development course. 
 This projected helped to learned new skills with SwiftUI and user interaction through the UI. 
 
-
-
-https://github.com/TratonGossink/War-Card-Game/assets/79613749/a1b82fd9-362e-4d82-a3eb-4d2c23463516
-
-
+https://github.com/TratonGossink/War-Card-Game/assets/79613749/5aab6dc2-e73c-4c6a-961f-58985c042234
 
 ### Download Zip File Method:
 Download zip file and extract files by double clicking in finder or right clicking and selecting extract. 
