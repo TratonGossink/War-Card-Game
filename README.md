@@ -4,8 +4,7 @@
 This is a simple card game to compare which card is the highest. When comparing cards, the winner will get a point. 
 
 ### Overview
-
-This simple app is a project developed through my iOS development course. 
+This app was built as a part of my online iOS development bootcamp from Chris Ching on Code With Chris Academy. 
 This projected helped to learned new skills with SwiftUI and user interaction through the UI. 
 
 https://github.com/TratonGossink/War-Card-Game/assets/79613749/5aab6dc2-e73c-4c6a-961f-58985c042234
